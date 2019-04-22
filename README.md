@@ -1,3 +1,7 @@
+# B2B-Center fork differnce:
+
+Methods \CL\Slack\Model\AttachmentAction::setUrl() and getUrl() are implemented.
+
 # Slack API library [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/cleentfaar/slack/blob/master/LICENSE.md)
 
 Access your Slack Team's API through PHP objects.
